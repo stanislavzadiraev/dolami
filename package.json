@@ -1,0 +1,23 @@
+{
+  "name": "dolami",
+  "version": "0.0.1",
+  "keywords": [],
+  "description": "Dolyame Payment",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stanislavzadiraev/dolami.git"
+  },
+  "author": "https://github.com/stanislavzadiraev",
+  "homepage": "https://github.com/stanislavzadiraev/dolami#readme",
+  "bugs": {
+    "url": "https://github.com/stanislavzadiraev/dolami/issues"
+  },
+  "type": "module",
+  "scripts": {
+    "soma": "soma"
+  },
+  "devDependencies": {
+    "soma": "github:stanislavzadiraev/soma"
+  }
+}
