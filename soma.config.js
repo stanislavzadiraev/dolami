@@ -8,5 +8,6 @@ export default {
 
     fscontent: [
         ['dst','dolami'],
+        ['tls','sequre'],
     ],
 }
